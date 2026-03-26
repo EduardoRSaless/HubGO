@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/material": "^7.3.9",
+    "@types/recharts": "^1.8.29",
+    "recharts": "^3.8.1"
+  }
+}
